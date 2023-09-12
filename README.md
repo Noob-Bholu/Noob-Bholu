@@ -5,10 +5,10 @@
 -
 -
 - 👋 Hi, I’m @Noob-Bholu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning in 11th std.
+- 💞️ I’m looking to collaborate on telegram
+- 📫 How to reach me t.me/itzme_dear
 
 <!---
 Noob-Bholu/Noob-Bholu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
